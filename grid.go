@@ -6,8 +6,9 @@
 package grid
 
 import (
-	"azul3d.org/dstarlite.v1"
 	"math"
+
+	"azul3d.org/dstarlite.v1"
 )
 
 // Coord represents an single grid coordinate pair [x, y]

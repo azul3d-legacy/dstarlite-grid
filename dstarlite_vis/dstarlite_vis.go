@@ -7,9 +7,10 @@
 package main
 
 import (
+	"log"
+
 	"azul3d.org/dstarlite/grid.v1"
 	"github.com/nsf/termbox-go"
-	"log"
 )
 
 type Player struct {
